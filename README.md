@@ -327,7 +327,9 @@ This project demonstrates practical skills in **Power BI, Power Query, DAX, data
 
 ## Screenshots / Demos
 Show what the dashboard looks like. Example: 
-![Bank Loan Analytics Dashboard - Summary]([Bank Loan Analytics Dashsboard Summary page.png](https://github.com/Saumitra777/Bank-Loan-Analytics-Dashboard/blob/main/Bank%20Loan%20Analytics%20Dashsboard%20Summary%20page.png))
+![Dashboard Overview](https://github.com/Saumitra777/Bank-Loan-Analytics-Dashboard/blob/main/Bank%20Loan%20Analytics%20Dashsboard%20Summary%20page.png)
+
+
 
 ### Dashboard Overview
 
