@@ -326,5 +326,7 @@ Bank-Loan-Analytics-Dashboard/
 This project demonstrates practical skills in **Power BI, Power Query, DAX, data modeling, KPI development, data visualization, and business-oriented data analysis**, with a focus on converting raw financial data into an interactive decision-support dashboard.
 
 ## Screenshots / Demos
-Show what the dashboard looks like. Example: (https://github.com/Saumitra777/Bank-Loan-Analytics-Dashboard/edit/main/README.md)
+Show what the dashboard looks like. Example: 
+https://github.com/Saumitra777/Bank-Loan-Analytics-Dashboard/blob/main/Bank%20Loan%20Analytics%20Dashsboard%20Overview%20page.png
+
 
